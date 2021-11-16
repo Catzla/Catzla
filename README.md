@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catzla
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning ES6 & React.js
 - 💞️ I’m looking to collaborate on the frontend side of projects 
 - 📫 How to reach me catzla@pm.me
 
